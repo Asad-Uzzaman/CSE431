@@ -1,26 +1,30 @@
-Completed coursera course using email
-someone@gmail.com
-https://www.coursera.org/learn/this_is_a_course
-
-Completed edx course using email
-someone@gmail.com
-https://edx.org/learn/this_is_a_course
 
 completed youtube video:
-http://youtube....
+https://www.youtube.com/watch?v=oWsMIW-5xUc&list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv
+https://youtu.be/X2vAabgKiuM
 
 completed book:
-http://book
+https://web.stanford.edu/~jurafsky/slp3/
 
-did project:
-.....
+Comparative analysis:
+https://drive.google.com/file/d/1nghhEAAnKEjmqrKov_0CeA9Y5gLdP4yf/view?usp=sharing
 
-did something else
-...
+Paper analysis:
+https://aclanthology.org/2020.acl-main.394.pdf
+
+Learning sources:
+https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b#:~:text=NLP%20is%20a%20field%20in,Gmail%20structures%20events%20from%20emails).
+
+Learning sources:
+https://github.com/graykode/nlp-tutorial
+
+Workshop:
+http://librarycarpentry.org/lc-tdm/
+https://swcarpentry.github.io/python-novice-inflammation/index.html
 
 was active in slack:
-http://slack post URL1
-http://slack post URL2
+https://bucse712fall2021.slack.com/archives/C02GE7F3YSZ/p1642435184015800
+https://bucse712fall2021.slack.com/archives/C02GE7F3YSZ/p1642435368016100
 
 Submitter:
-12345678 Name A
+17301128 Md. Asad Uzzaman Noor
